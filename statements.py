@@ -1,24 +1,24 @@
 # Statements
+"""
+ age = 20
 
-# age = 20
+ if age == 20:
+   print(" hey you are 20")
+ elif age >=18:
+ print(" You can enter")
+ else:  
+   print(" sorry too young") 
 
-# if age == 20:
-  # print(" hey you are 20")
-# elif age >=18:
-# print(" You can enter")
-# else:  
-  # print(" sorry too young") 
+age = 18
 
-#age = 18
+if age != 24:
+  print(" hey you not 24")
 
-#if age != 24:
-  #print(" hey you not 24")
-
-#is_logged = True
-#is_logged: bool
-#if is_logged:
-   # print('welcome user')
-
+is_logged = True
+is_logged: bool
+if is_logged:
+    print('welcome user')
+"""
 
 is_logged = True
 
